@@ -1,0 +1,8 @@
+{
+  "name": "Remix power4-dockerfile-ai",
+  "description": "Imported from GitHub: fededd22/power4-dockerfile-ai",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
